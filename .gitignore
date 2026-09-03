@@ -1,0 +1,10 @@
+# Local optimizer state
+Backup/
+reports/
+*.log
+*.json
+
+# OS/editor
+Thumbs.db
+.DS_Store
+.vscode/
